@@ -4,7 +4,7 @@
 
     <groupId>org.liquibase</groupId>
     <artifactId>liquibase-parent</artifactId>
-    <version>3.4.2</version>
+    <version>3.4.2-um-1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Liquibase Parent Configuration</name>
@@ -28,11 +28,11 @@
     </issueManagement>
 
     <scm>
-        <connection>scm:git:git@github.com:liquibase/liquibase.git</connection>
-        <url>scm:git:git@github.com:liquibase/liquibase.git</url>
-        <developerConnection>scm:git:git@github.com:liquibase/liquibase.git</developerConnection>
-      <tag>liquibase-parent-3.4.2</tag>
-  </scm>
+        <connection>scm:git:git@github.com:usermindinc/liquibase.git</connection>
+        <url>scm:git:git@github.com:usermindinc/liquibase.git</url>
+        <developerConnection>scm:git:git@github.com:usermindinc/liquibase.git</developerConnection>
+        <tag>liquibase-parent-3.4.2-um-1</tag>
+    </scm>
 
     <developers>
        <developer>
